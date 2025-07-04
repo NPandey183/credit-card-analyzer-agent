@@ -1,0 +1,55 @@
+Date,Description,Amount (INR),Category,Merchant,Mode,Predicted Category
+2025-06-17,Big Bazaar Transaction,172.53,Grocery,Big Bazaar,Auto-Debit,Grocery
+2025-05-26,Uber Transaction,2235.77,Travel,Uber,Card,Travel
+2025-06-18,Netflix Transaction,186.41,Entertainment,Netflix,UPI,Entertainment
+2025-06-18,Indian Oil Transaction,1727.61,Fuel,Indian Oil,Online,Fuel
+2025-05-15,Hotstar Transaction,906.75,Entertainment,Hotstar,Card,Entertainment
+2025-06-15,Airtel Transaction,2124.6,Bills,Airtel,Auto-Debit,Bills
+2025-06-26,Uber Transaction,2875.92,Travel,Uber,Auto-Debit,Travel
+2025-05-25,Zomato Transaction,380.48,Food,Zomato,Auto-Debit,Food
+2025-05-04,Amazon Transaction,2216.22,Shopping,Amazon,Card,Shopping
+2025-05-27,Netflix Transaction,1700.92,Entertainment,Netflix,Auto-Debit,Entertainment
+2025-05-14,Ola Transaction,301.71,Travel,Ola,UPI,Travel
+2025-06-08,Amazon Transaction,2580.42,Shopping,Amazon,Card,Shopping
+2025-06-22,Flipkart Transaction,1943.48,Shopping,Flipkart,Auto-Debit,Shopping
+2025-05-19,Flipkart Transaction,707.57,Shopping,Flipkart,Auto-Debit,Shopping
+2025-05-29,Spencer’s Transaction,307.07,Grocery,Spencer’s,UPI,Grocery
+2025-06-15,Big Bazaar Transaction,573.87,Grocery,Big Bazaar,Online,Grocery
+2025-05-10,Spencer’s Transaction,1715.15,Grocery,Spencer’s,Auto-Debit,Grocery
+2025-05-12,Airtel Transaction,764.24,Bills,Airtel,Card,Bills
+2025-05-05,Flipkart Transaction,876.45,Shopping,Flipkart,UPI,Shopping
+2025-06-07,Bharat Petroleum Transaction,716.62,Fuel,Bharat Petroleum,Online,Other
+2025-06-17,DMart Transaction,514.33,Grocery,DMart,UPI,Other
+2025-05-06,Spencer’s Transaction,1663.03,Grocery,Spencer’s,Online,Grocery
+2025-05-31,Bharat Petroleum Transaction,1149.79,Fuel,Bharat Petroleum,UPI,Other
+2025-06-23,Netflix Transaction,2291.77,Entertainment,Netflix,Card,Entertainment
+2025-05-25,Big Bazaar Transaction,2397.03,Grocery,Big Bazaar,Online,Grocery
+2025-05-30,Zomato Transaction,1206.7,Food,Zomato,Online,Food
+2025-05-20,Myntra Transaction,2596.26,Shopping,Myntra,Card,Other
+2025-05-14,Big Bazaar Transaction,2076.96,Grocery,Big Bazaar,Auto-Debit,Grocery
+2025-06-22,DMart Transaction,423.5,Grocery,DMart,Online,Other
+2025-05-31,Netflix Transaction,2866.07,Entertainment,Netflix,Auto-Debit,Entertainment
+2025-05-08,Airtel Transaction,1572.28,Bills,Airtel,Card,Bills
+2025-06-23,DMart Transaction,2540.84,Grocery,DMart,UPI,Other
+2025-05-25,Amazon Transaction,1664.2,Shopping,Amazon,Card,Shopping
+2025-05-07,Flipkart Transaction,156.48,Shopping,Flipkart,Auto-Debit,Shopping
+2025-05-07,Jio Transaction,794.41,Bills,Jio,UPI,Other
+2025-05-11,Indian Oil Transaction,348.4,Fuel,Indian Oil,Online,Fuel
+2025-05-21,Dominos Transaction,2320.92,Food,Dominos,UPI,Other
+2025-06-19,Hotstar Transaction,578.87,Entertainment,Hotstar,Online,Entertainment
+2025-05-21,Indian Oil Transaction,2167.55,Fuel,Indian Oil,Online,Fuel
+2025-06-25,DMart Transaction,1370.49,Grocery,DMart,Online,Other
+2025-05-26,Uber Transaction,285.68,Travel,Uber,Card,Travel
+2025-06-28,Indian Oil Transaction,1806.48,Fuel,Indian Oil,Card,Fuel
+2025-05-06,Spencer’s Transaction,270.73,Grocery,Spencer’s,Card,Grocery
+2025-06-15,Zomato Transaction,305.49,Food,Zomato,UPI,Food
+2025-05-17,DMart Transaction,721.29,Grocery,DMart,UPI,Other
+2025-05-12,Bharat Petroleum Transaction,804.69,Fuel,Bharat Petroleum,Online,Other
+2025-06-10,Netflix Transaction,373.54,Entertainment,Netflix,Online,Entertainment
+2025-05-20,Spotify Transaction,1454.37,Entertainment,Spotify,Card,Other
+2025-05-17,Spencer’s Transaction,385.41,Grocery,Spencer’s,Online,Grocery
+2025-05-29,Amazon Transaction,821.1,Shopping,Amazon,UPI,Shopping
+2025-06-10,Luxury Purchase,25000.0,Shopping,Amazon,Card,Shopping
+2025-06-11,Unknown Charge,18000.0,Unknown,Unknown,Card,Other
+2025-06-15,Airtel Transaction,2124.6,Bills,Airtel,Auto-Debit,Bills
+2025-06-15,Airtel Transaction,2124.6,Bills,Airtel,Auto-Debit,Bills
